@@ -2,6 +2,8 @@
 
 ## 2026-05-20
 
+- 修正桌面端信息图左边界，使其与标题和正文文字对齐。
+- 增加 `archive/2026-05-20-karpathy-llm-wiki-article-magazine-v4-aligned-infographic.html` 作为对齐修正版归档。
 - 将信息图移动到正文开篇前，并限制在正文宽度内显示。
 - 完善移动端响应式样式：头部元信息换行、表格横向滚动、图片随容器缩放。
 - 增加 `archive/2026-05-20-karpathy-llm-wiki-article-magazine-v3-responsive-infographic.html` 作为响应式优化归档。
