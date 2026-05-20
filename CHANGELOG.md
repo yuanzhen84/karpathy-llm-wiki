@@ -2,6 +2,9 @@
 
 ## 2026-05-20
 
+- 将信息图移动到正文开篇前，并限制在正文宽度内显示。
+- 完善移动端响应式样式：头部元信息换行、表格横向滚动、图片随容器缩放。
+- 增加 `archive/2026-05-20-karpathy-llm-wiki-article-magazine-v3-responsive-infographic.html` 作为响应式优化归档。
 - 融合 Karpathy 式个人知识库信息图到正文，并增加页面级图片样式。
 - 增加 `archive/2026-05-20-karpathy-llm-wiki-article-magazine-v2-infographic.html` 作为图文融合版归档。
 - 发布第一版 HTML 页面。

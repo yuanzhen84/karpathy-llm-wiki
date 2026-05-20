@@ -19,6 +19,8 @@ updated: 2026-05-20
 
 > 受 Karpathy LLM Wiki 启发，我把自己的 Obsidian 知识库改造成了一套“Markdown 源文件 + AI 维护 + HTML 成品输出”的个人知识生产流水线。
 
+![基于 AI 驱动的 Karpathy 式个人知识库构建指南](../assets/karpathy-llm-wiki-infographic.jpg)
+
 ## 开篇：一个"收藏党"的自白
 
 我得先坦白一件事：**我是一个重度收藏党。**
@@ -64,8 +66,6 @@ Andrej Karpathy 在他的 GitHub Gist 里提出了一个看似反常识的思路
 | 可编辑性 | 黑箱，人没法改 | Markdown，人可以直接改 |
 | 重复劳动 | 每次查询重新理解材料 | 只编译一次，后续复用 |
 | 成本 | token 浪费在重复上下文 | token 花在结构化编译上 |
-
-![基于 AI 驱动的 Karpathy 式个人知识库构建指南](../assets/karpathy-llm-wiki-infographic.jpg)
 
 更重要的是：**好答案不会死在聊天记录里了。**
 
